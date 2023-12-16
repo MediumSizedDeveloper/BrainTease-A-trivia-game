@@ -12,3 +12,4 @@ IMPORTANT!!!
   
 -Should the program not run, giving an error like "Error: Could not find or load main class com.example.braintease_final.BrainTeaseTriviaGame
 Caused by: java.lang.ClassNotFoundException: com.example.braintease_final.BrainTeaseTriviaGame". You are going to want to make sure path of the class Driver matches that of the package.
+![image](https://github.com/MediumSizedDeveloper/BrainTease-A-trivia-game/assets/126418634/0fbd25c2-68b1-4b13-9ed6-f59ee66aaa2e)
